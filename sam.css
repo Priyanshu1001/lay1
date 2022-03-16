@@ -1,0 +1,11 @@
+h3{
+    background-color: cyan;
+    color:red;
+    border-radius: 60px;
+    height: 50px;
+    width: 80%;
+}
+p{
+    color: blue;
+    margin-top: 10px;
+}
